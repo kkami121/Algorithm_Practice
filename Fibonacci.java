@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /*
 입력 받은 숫자 만큼 길이의 피보나치 수열을 출력하는 프로그램
-author 박귀열
+@author 박귀열
 */
 public class Fibonacci {
     public static void main(String[] args){
