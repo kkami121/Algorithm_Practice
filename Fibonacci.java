@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[] args){
     
-        System.out.print("원하는 수의 피보나치 입력 : ");
+        System.out.print("원하는 피보나치 수열의 개수 입력 : ");
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
         int [] n1 = new int[100];
